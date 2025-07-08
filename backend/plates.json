@@ -1,0 +1,112 @@
+[
+  {
+    "license_number": "GJ03ER0563",
+    "owner": "John Doe",
+    "address": "123 Maple Street, Springfield, IL",
+    "make": "Toyota",
+    "model": "Camry",
+    "year": 2018,
+    "color": "Blue",
+    "registration_date": "2022-04-15",
+    "expiration_date": "2025-04-15"
+  },
+  {
+    "license_number": "XYZ5678",
+    "owner": "Jane Smith",
+    "address": "456 Oak Avenue, Austin, TX",
+    "make": "Honda",
+    "model": "Civic",
+    "year": 2020,
+    "color": "Red",
+    "registration_date": "2023-01-10",
+    "expiration_date": "2026-01-10"
+  },
+  {
+    "license_number": "LMN2468",
+    "owner": "Alan Walker",
+    "address": "789 Pine Lane, Seattle, WA",
+    "make": "Ford",
+    "model": "Focus",
+    "year": 2019,
+    "color": "White",
+    "registration_date": "2021-07-23",
+    "expiration_date": "2024-07-23"
+  },
+  {
+    "license_number": "GHJ1357",
+    "owner": "Sara Lee",
+    "address": "321 Birch Blvd, Miami, FL",
+    "make": "Chevrolet",
+    "model": "Malibu",
+    "year": 2021,
+    "color": "Silver",
+    "registration_date": "2022-09-30",
+    "expiration_date": "2025-09-30"
+  },
+  {
+    "license_number": "KLM8642",
+    "owner": "Bruce Wayne",
+    "address": "1007 Mountain Drive, Gotham",
+    "make": "Lamborghini",
+    "model": "Aventador",
+    "year": 2022,
+    "color": "Black",
+    "registration_date": "2023-05-20",
+    "expiration_date": "2026-05-20"
+  },
+  {
+    "license_number": "TRN7531",
+    "owner": "Clark Kent",
+    "address": "344 Clinton Street, Metropolis",
+    "make": "Tesla",
+    "model": "Model S",
+    "year": 2023,
+    "color": "Midnight Silver",
+    "registration_date": "2023-11-05",
+    "expiration_date": "2026-11-05"
+  },
+  {
+    "license_number": "QWE9988",
+    "owner": "Diana Prince",
+    "address": "200 Themyscira Island, DC",
+    "make": "Jeep",
+    "model": "Wrangler",
+    "year": 2020,
+    "color": "Green",
+    "registration_date": "2021-03-18",
+    "expiration_date": "2024-03-18"
+  },
+  {
+    "license_number": "ZXC5544",
+    "owner": "Tony Stark",
+    "address": "10880 Malibu Point, Malibu, CA",
+    "make": "Audi",
+    "model": "R8",
+    "year": 2021,
+    "color": "Red",
+    "registration_date": "2022-06-12",
+    "expiration_date": "2025-06-12"
+  },
+  {
+    "license_number": "BNM1122",
+    "owner": "Steve Rogers",
+    "address": "569 Brooklyn Street, NY",
+    "make": "Harley-Davidson",
+    "model": "Street 750",
+    "year": 2017,
+    "color": "Black",
+    "registration_date": "2020-08-25",
+    "expiration_date": "2023-08-25"
+  },
+  {
+    "license_number": "RTY3344",
+    "owner": "Natasha Romanoff",
+    "address": "Unknown, Russia",
+    "make": "BMW",
+    "model": "X5",
+    "year": 2022,
+    "color": "White",
+    "registration_date": "2023-02-17",
+    "expiration_date": "2026-02-17"
+  }
+]
