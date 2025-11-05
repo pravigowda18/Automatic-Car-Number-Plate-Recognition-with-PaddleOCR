@@ -108,14 +108,14 @@ plates.json
 
 ### 🔮 Future Enhancements
 
-• ☁️ Integrate with a real-time database instead of JSON
-• 📱 Add a dashboard for viewing recognition history
-• 🔐 Implement authentication for admin access
-• 🧩 Add cloud deployment (AWS, Render, or Hugging Face Spaces)
+- ☁️ Integrate with a real-time database instead of JSON
+- 📱 Add a dashboard for viewing recognition history
+- 🔐 Implement authentication for admin access
+- 🧩 Add cloud deployment (AWS, Render, or Hugging Face Spaces)
 
 ### 🧑‍💻 Author
 ## Praveen S
-📧 Email: pravisb0002@gmail.com
-💼 LinkedIn: linkedin.com/in/praveens182002
-🌐 Portfolio: pravigowda18.github.io/pravigowda18/
-📦 GitHub Repo: Automatic Car Number Plate Recognition with PaddleOCR
+- 📧 Email: pravisb0002@gmail.com
+- 💼 LinkedIn: linkedin.com/in/praveens182002
+- 🌐 Portfolio: pravigowda18.github.io/pravigowda18/
+- 📦 GitHub Repo: Automatic Car Number Plate Recognition with PaddleOCR
