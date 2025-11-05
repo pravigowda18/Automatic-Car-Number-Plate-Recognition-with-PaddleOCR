@@ -32,22 +32,22 @@ If a match is found, the system displays the owner’s information in real time 
 
 ## 📂 Project Structure
 Automatic-Car-Number-Plate-Recognition-with-PaddleOCR/
-│
-├── backend/
-│ ├── templates/
-│ │ └── index.html # Web interface
-│ └── app.py # Flask backend
-│
-├── car_plate.py # Detection, OCR & data matching logic
-├── best.pt # YOLOv8 trained model
-├── plates.json # Demo JSON with owner data
-├── output/ # (Optional) Output frames
-├── run/detect/ # YOLO detection folder
-├── licensePlate.py # Auxiliary script
-├── LicensePlateReco.ipynb # Jupyter notebook version
-├── requirements.txt # Dependencies
-├── tailwind.config.js # Tailwind config
-└── .gitignore
+- │
+- ├── backend/
+- │ ├── templates/
+- │ │ └── index.html # Web interface
+- │ └── app.py # Flask backend
+- │
+- ├── car_plate.py # Detection, OCR & data matching logic
+- ├── best.pt # YOLOv8 trained model
+- ├── plates.json # Demo JSON with owner data
+- ├── output/ # (Optional) Output frames
+- ├── run/detect/ # YOLO detection folder
+- ├── licensePlate.py # Auxiliary script
+- ├── LicensePlateReco.ipynb # Jupyter notebook version
+- ├── requirements.txt # Dependencies
+- ├── tailwind.config.js # Tailwind config
+- └── .gitignore
 
 
 ---
@@ -92,6 +92,7 @@ Then open your browser and visit:
 
 ### 📜 Example JSON Format
 plates.json
+```json
 {
     "license_number": "GJ03ER0563",
     "owner": "John Doe",
@@ -103,3 +104,18 @@ plates.json
     "registration_date": "2022-04-15",
     "expiration_date": "2025-04-15"
   },
+```
+
+### 🔮 Future Enhancements
+
+• ☁️ Integrate with a real-time database instead of JSON
+• 📱 Add a dashboard for viewing recognition history
+• 🔐 Implement authentication for admin access
+• 🧩 Add cloud deployment (AWS, Render, or Hugging Face Spaces)
+
+### 🧑‍💻 Author
+## Praveen S
+📧 Email: pravisb0002@gmail.com
+💼 LinkedIn: linkedin.com/in/praveens182002
+🌐 Portfolio: pravigowda18.github.io/pravigowda18/
+📦 GitHub Repo: Automatic Car Number Plate Recognition with PaddleOCR
